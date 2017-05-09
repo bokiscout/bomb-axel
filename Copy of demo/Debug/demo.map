@@ -1,0 +1,1701 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+                              ./src/cr_startup_lpc17.o (SystemInit)
+C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+                              ./src/main.o (acc_init)
+C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+                              ./src/main.o (joystick_init)
+C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+                              ./src/main.o (led7seg_setChar)
+C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+                              ./src/main.o (oled_putPixel)
+C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+                              ./src/main.o (pca9532_setLeds)
+C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+                              ./src/main.o (rgb_init)
+C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+                              C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o) (font5x7)
+C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+                              C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o) (GPIO_SetDir)
+C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+                              ./src/main.o (I2C_Init)
+C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_libcfg_default.o)
+                              C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o) (check_failed)
+C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+                              ./src/main.o (PINSEL_ConfigPin)
+C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+                              C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o) (SSP_ReadWrite)
+C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                              ./src/main.o (Timer0_Wait)
+C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+                              C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o) (CLKPWR_SetPCLKDiv)
+f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_arm_addsubsf3.o)
+                              ./src/main.o (__aeabi_i2f)
+f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_arm_cmpsf2.o)
+                              ./src/main.o (__aeabi_fcmplt)
+f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_arm_fixsfsi.o)
+                              ./src/main.o (__aeabi_f2iz)
+f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_aeabi_uldivmod.o)
+                              C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o) (__aeabi_uldivmod)
+f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_udivmoddi4.o)
+                              f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_dvmd_tls.o)
+                              f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+                              C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o) (memset)
+f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-rand.o)
+                              ./src/main.o (srand)
+f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-time.o)
+                              ./src/main.o (time)
+f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-gettimeofdayr.o)
+                              f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-time.o) (_gettimeofday_r)
+f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+                              f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-rand.o) (_impure_ptr)
+f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-reent.o)
+                              f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-gettimeofdayr.o) (errno)
+f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-freer.o)
+                              f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-reent.o) (_free_r)
+f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-mallocr.o)
+                              f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-freer.o) (__malloc_current_mallinfo)
+f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-mlock.o)
+                              f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-freer.o) (__malloc_lock)
+f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-sbrkr.o)
+                              f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-freer.o) (_sbrk_r)
+f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_sbrk.o)
+                              f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-sbrkr.o) (_sbrk)
+f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+                              f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-gettimeofdayr.o) (_gettimeofday)
+f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_check_heap.o)
+                              f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_sbrk.o) (__check_heap_overflow)
+f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-errno.o)
+                              f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_sbrk.o) (__errno)
+f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-strlen-stub.o)
+                              f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o) (strlen)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-reent.o)
+
+Discarded input sections
+
+ .group         0x00000000        0x8 ./src/cr_startup_lpc17.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc17.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc17.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc17.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc17.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc17.o
+ .text          0x00000000        0x0 ./src/cr_startup_lpc17.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc17.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc17.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .text          0x00000000        0x0 ./src/main.o
+ .text.draw_defuse
+                0x00000000       0x48 ./src/main.o
+ .debug_macro   0x00000000      0x886 ./src/main.o
+ .debug_macro   0x00000000       0x22 ./src/main.o
+ .debug_macro   0x00000000       0x44 ./src/main.o
+ .debug_macro   0x00000000       0xfd ./src/main.o
+ .debug_macro   0x00000000       0x22 ./src/main.o
+ .debug_macro   0x00000000      0x1df ./src/main.o
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .text          0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .bss           0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .text.SystemCoreClockUpdate
+                0x00000000      0x284 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000      0x2c7 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .text          0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .data          0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .bss           0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .text.getModeControl
+                0x00000000       0x2c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .text.acc_setRange
+                0x00000000       0x3c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .text.acc_setMode
+                0x00000000       0x38 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_macro   0x00000000      0x880 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_macro   0x00000000      0x7b7 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_macro   0x00000000      0x2c7 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_macro   0x00000000       0x64 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .text          0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .data          0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .bss           0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .debug_macro   0x00000000      0x880 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .debug_macro   0x00000000      0x7b7 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .debug_macro   0x00000000      0x2c7 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .debug_macro   0x00000000       0x64 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .debug_macro   0x00000000       0x28 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .text          0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .bss           0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .text.led7seg_init
+                0x00000000       0x1c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_macro   0x00000000      0x880 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_macro   0x00000000      0x7b7 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_macro   0x00000000      0x2c7 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_macro   0x00000000       0x64 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text          0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .data          0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.oled_line
+                0x00000000      0x1b8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.oled_rect
+                0x00000000       0x58 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_macro   0x00000000      0x880 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_macro   0x00000000      0x7b7 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_macro   0x00000000      0x2c7 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_macro   0x00000000      0x2a6 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .text          0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .data          0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .text.I2CRead  0x00000000       0x50 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .text.pca9532_init
+                0x00000000        0xc C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .text.pca9532_getLedState
+                0x00000000       0x98 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .text.pca9532_setBlink0Period
+                0x00000000       0x28 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .text.pca9532_setBlink0Duty
+                0x00000000       0x4c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .text.pca9532_setBlink0Leds
+                0x00000000       0x28 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .text.pca9532_setBlink1Period
+                0x00000000       0x28 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .text.pca9532_setBlink1Duty
+                0x00000000       0x4c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .text.pca9532_setBlink1Leds
+                0x00000000       0x28 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_macro   0x00000000      0x880 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_macro   0x00000000      0x7b7 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_macro   0x00000000      0x2c7 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_macro   0x00000000       0x64 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_macro   0x00000000      0x18c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_macro   0x00000000       0xb2 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .text          0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .data          0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .bss           0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .text.rgb_setLeds
+                0x00000000       0x6c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .debug_macro   0x00000000      0x880 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .debug_macro   0x00000000      0x7b7 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .debug_macro   0x00000000      0x2c7 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .debug_macro   0x00000000       0x64 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .text          0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .data          0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .bss           0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .debug_macro   0x00000000      0x880 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text          0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .data          0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .bss           0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordGetPointer
+                0x00000000       0x70 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ByteGetPointer
+                0x00000000       0x70 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.GPIO_IntCmd
+                0x00000000       0x70 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.GPIO_GetIntStatus
+                0x00000000       0xa0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.GPIO_ClearInt
+                0x00000000       0x38 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_SetDir
+                0x00000000       0x24 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_SetValue
+                0x00000000       0x20 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ClearValue
+                0x00000000       0x20 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ReadValue
+                0x00000000       0x1c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_IntCmd
+                0x00000000       0x24 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_GetIntStatus
+                0x00000000       0x28 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ClearInt
+                0x00000000       0x20 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_SetMask
+                0x00000000       0x4c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordSetDir
+                0x00000000       0xa0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordSetMask
+                0x00000000       0xa0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordSetValue
+                0x00000000       0x40 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordClearValue
+                0x00000000       0x40 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordReadValue
+                0x00000000       0x40 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ByteSetDir
+                0x00000000       0x7c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ByteSetMask
+                0x00000000       0x88 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ByteSetValue
+                0x00000000       0x3c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ByteClearValue
+                0x00000000       0x3c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ByteReadValue
+                0x00000000       0x3c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_macro   0x00000000      0x880 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_macro   0x00000000      0x7b7 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_macro   0x00000000      0x2c7 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_macro   0x00000000       0x64 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text          0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .data          0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_DeInit
+                0x00000000       0x80 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_MasterHandler
+                0x00000000      0x380 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_SlaveHandler
+                0x00000000      0x1a4 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_SlaveTransferData
+                0x00000000      0x1f0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_SetOwnSlaveAddr
+                0x00000000       0xfc C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_MonitorModeConfig
+                0x00000000       0x84 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_MonitorModeCmd
+                0x00000000       0x98 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_MonitorGetDatabuffer
+                0x00000000       0x48 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_MonitorHandler
+                0x00000000       0x50 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_MasterTransferComplete
+                0x00000000       0x34 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_SlaveTransferComplete
+                0x00000000       0x34 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_macro   0x00000000      0x880 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_macro   0x00000000      0x7b7 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_macro   0x00000000      0x2c7 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_macro   0x00000000       0x64 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_macro   0x00000000      0x18c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_macro   0x00000000       0xda C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .text          0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .data          0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .bss           0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .debug_macro   0x00000000      0x880 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .text          0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .data          0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .bss           0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .text.PINSEL_ConfigTraceFunc
+                0x00000000       0x40 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .text.PINSEL_SetI2C0Pins
+                0x00000000       0x38 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_macro   0x00000000      0x880 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_macro   0x00000000      0x7b7 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_macro   0x00000000      0x2c7 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_macro   0x00000000       0x64 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_macro   0x00000000      0x140 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text          0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .data          0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .bss           0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.setSSPclock
+                0x00000000       0xc4 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_Init
+                0x00000000       0x9c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_DeInit
+                0x00000000       0x5c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_ConfigStructInit
+                0x00000000       0x3c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_Cmd  0x00000000       0x6c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_LoopBackCmd
+                0x00000000       0x6c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_SlaveOutputCmd
+                0x00000000       0x70 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_GetStatus
+                0x00000000       0x74 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_IntConfig
+                0x00000000       0x64 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_GetRawIntStatus
+                0x00000000       0x6c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_GetRawIntStatusReg
+                0x00000000       0x3c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_GetIntStatus
+                0x00000000       0x6c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_ClearIntPending
+                0x00000000       0x54 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_DMACmd
+                0x00000000       0x90 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_macro   0x00000000      0x880 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_macro   0x00000000      0x7b7 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_macro   0x00000000      0x2c7 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_macro   0x00000000       0x64 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_macro   0x00000000      0x2fa C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_macro   0x00000000       0xda C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .text          0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .data          0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .bss           0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .text.TIM_GetIntCaptureStatus
+                0x00000000       0x9c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .text.TIM_ClearIntCapturePending
+                0x00000000       0x88 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .text.TIM_ConfigStructInit
+                0x00000000       0x38 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .text.TIM_DeInit
+                0x00000000       0x9c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .text.TIM_ResetCounter
+                0x00000000       0x64 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .text.TIM_UpdateMatchValue
+                0x00000000       0x90 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .text.TIM_ConfigCapture
+                0x00000000       0xdc C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .text.TIM_GetCaptureValue
+                0x00000000       0x74 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000      0x880 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000      0x7b7 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000      0x2c7 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000       0x64 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000      0x2fa C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000      0x146 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .debug_macro   0x00000000       0xda C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .group         0x00000000        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .text          0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .data          0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .bss           0x00000000        0x0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .text.__WFI    0x00000000       0x10 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .text.CLKPWR_Sleep
+                0x00000000       0x18 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .text.CLKPWR_DeepSleep
+                0x00000000       0x24 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .text.CLKPWR_PowerDown
+                0x00000000       0x24 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .text.CLKPWR_DeepPowerDown
+                0x00000000       0x24 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x00000000      0x880 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x00000000      0x7b7 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x00000000      0x2c7 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x00000000       0x64 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .data          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_arm_addsubsf3.o)
+ .bss           0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_arm_addsubsf3.o)
+ .data          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_arm_cmpsf2.o)
+ .bss           0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_arm_cmpsf2.o)
+ .data          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_arm_fixsfsi.o)
+ .bss           0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_arm_fixsfsi.o)
+ .data          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-rand.o)
+ .data          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-rand.o)
+ .bss           0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-rand.o)
+ .text          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-time.o)
+ .data          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-time.o)
+ .bss           0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-time.o)
+ .text          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-gettimeofdayr.o)
+ .data          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-gettimeofdayr.o)
+ .bss           0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-gettimeofdayr.o)
+ .text          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-reent.o)
+ .data          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1c f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0x88 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-reent.o)
+ .text          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-freer.o)
+ .data          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-freer.o)
+ .bss           0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-freer.o)
+ .text._malloc_trim_r
+                0x00000000       0x9c f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-freer.o)
+ .text._free_r  0x00000000      0x1d0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-freer.o)
+ .debug_frame   0x00000000       0x74 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x00000000       0x2d f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-freer.o)
+ .text          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-mallocr.o)
+ .data          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-mallocr.o)
+ .bss           0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-mallocr.o)
+ .text._malloc_r
+                0x00000000      0x558 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-mallocr.o)
+ .data.__malloc_av_
+                0x00000000      0x408 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-mallocr.o)
+ .data.__malloc_trim_threshold
+                0x00000000        0x4 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-mallocr.o)
+ .bss.__malloc_max_total_mem
+                0x00000000        0x4 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-mallocr.o)
+ .bss.__malloc_max_sbrked_mem
+                0x00000000        0x4 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-mallocr.o)
+ .bss.__malloc_top_pad
+                0x00000000        0x4 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-mallocr.o)
+ .bss.__malloc_current_mallinfo
+                0x00000000       0x28 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-mallocr.o)
+ .data.__malloc_sbrk_base
+                0x00000000        0x4 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-mallocr.o)
+ .debug_frame   0x00000000       0x54 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x00000000       0x2d f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-mallocr.o)
+ .text          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-mlock.o)
+ .data          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-mlock.o)
+ .bss           0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-mlock.o)
+ .text.__malloc_lock
+                0x00000000        0x4 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-mlock.o)
+ .text.__malloc_unlock
+                0x00000000        0x4 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-mlock.o)
+ .debug_frame   0x00000000       0x30 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000000       0x2d f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-mlock.o)
+ .text          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x24 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000000       0x2c f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000       0x2d f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-sbrkr.o)
+ .text          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_sbrk.o)
+ .data          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_sbrk.o)
+ .bss           0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_sbrk.o)
+ .text._sbrk    0x00000000       0x3c f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_sbrk.o)
+ .bss.__end_of_heap
+                0x00000000        0x4 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_sbrk.o)
+ .debug_info    0x00000000      0x124 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_sbrk.o)
+ .debug_abbrev  0x00000000       0xcf f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_sbrk.o)
+ .debug_loc     0x00000000       0x47 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_sbrk.o)
+ .debug_aranges
+                0x00000000       0x20 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_sbrk.o)
+ .debug_ranges  0x00000000       0x10 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_sbrk.o)
+ .debug_line    0x00000000      0x10d f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_sbrk.o)
+ .debug_str     0x00000000      0x22b f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_sbrk.o)
+ .comment       0x00000000       0x6f f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_sbrk.o)
+ .debug_frame   0x00000000       0x2c f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_sbrk.o)
+ .ARM.attributes
+                0x00000000       0x33 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_sbrk.o)
+ .text          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .data          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .bss           0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .text.error    0x00000000       0x1c f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .text.initialise_monitor_handles.part.0
+                0x00000000       0xa8 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .text.findslot
+                0x00000000       0x30 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .text.checkerror
+                0x00000000       0x20 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .text._swiread
+                0x00000000       0x20 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .text._read    0x00000000       0x34 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .text._swilseek
+                0x00000000       0x7a f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .text._lseek   0x00000000        0x4 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .text._swiwrite
+                0x00000000       0x20 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .text._write   0x00000000       0x42 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .text._swiclose
+                0x00000000       0x1c f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .text._close   0x00000000       0x48 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .text._getpid  0x00000000        0x4 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .text._swistat
+                0x00000000       0x42 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .text._fstat   0x00000000       0x1c f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .text._stat    0x00000000       0x3a f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .text._swiopen
+                0x00000000       0xc8 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .text._open    0x00000000       0x12 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .text._link    0x00000000       0x10 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .text._unlink  0x00000000       0x28 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .text._clock   0x00000000       0x12 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .text._times   0x00000000       0x16 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .text._isatty  0x00000000       0x2a f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .text._system  0x00000000       0x3c f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .text._rename  0x00000000       0x36 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .bss.monitor_stdout
+                0x00000000        0x4 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .bss.monitor_stdin
+                0x00000000        0x4 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .bss.initialized.5536
+                0x00000000        0x4 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .rodata.str1.1
+                0x00000000        0x4 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .bss.monitor_stderr
+                0x00000000        0x4 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .bss.openfiles
+                0x00000000       0x28 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+ .text          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_check_heap.o)
+ .data          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_check_heap.o)
+ .bss           0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_check_heap.o)
+ .text.__check_heap_overflow
+                0x00000000       0x18 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_check_heap.o)
+ .debug_info    0x00000000       0x6a f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_check_heap.o)
+ .debug_abbrev  0x00000000       0x62 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_check_heap.o)
+ .debug_loc     0x00000000       0x3a f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_check_heap.o)
+ .debug_aranges
+                0x00000000       0x20 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_check_heap.o)
+ .debug_ranges  0x00000000       0x10 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_check_heap.o)
+ .debug_line    0x00000000       0x4d f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_check_heap.o)
+ .debug_str     0x00000000      0x16d f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_check_heap.o)
+ .comment       0x00000000       0x6f f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_check_heap.o)
+ .debug_frame   0x00000000       0x20 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_check_heap.o)
+ .ARM.attributes
+                0x00000000       0x33 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(_cr_check_heap.o)
+ .text          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-errno.o)
+ .data          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-errno.o)
+ .text.__errno  0x00000000        0xc f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-errno.o)
+ .debug_frame   0x00000000       0x20 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x2d f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-errno.o)
+ .text          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-strlen-stub.o)
+ .data          0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-strlen-stub.o)
+ .bss           0x00000000        0x0 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-strlen-stub.o)
+ .text.strlen   0x00000000       0x5c f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-strlen-stub.o)
+ .debug_frame   0x00000000       0x20 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-strlen-stub.o)
+ .ARM.attributes
+                0x00000000       0x2d f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-strlen-stub.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash512        0x00000000         0x00080000         xr
+RamLoc32         0x10000000         0x00008000         xrw
+RamAHB32         0x2007c000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/cr_startup_lpc17.o
+LOAD ./src/main.o
+LOAD C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a
+LOAD C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a
+LOAD C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a
+START GROUP
+LOAD f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a
+LOAD f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a
+LOAD f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libm.a
+LOAD f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a
+END GROUP
+                0x00000000                __base_MFlash512 = 0x0
+                0x00000000                __base_Flash = 0x0
+                0x00080000                __top_MFlash512 = 0x80000
+                0x00080000                __top_Flash = 0x80000
+                0x10000000                __base_RamLoc32 = 0x10000000
+                0x10000000                __base_RAM = 0x10000000
+                0x10008000                __top_RamLoc32 = 0x10008000
+                0x10008000                __top_RAM = 0x10008000
+                0x2007c000                __base_RamAHB32 = 0x2007c000
+                0x2007c000                __base_RAM2 = 0x2007c000
+                0x20084000                __top_RamAHB32 = 0x20084000
+                0x20084000                __top_RAM2 = 0x20084000
+
+.text           0x00000000     0x4094
+ FILL mask 0xff
+                0x00000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xcc ./src/cr_startup_lpc17.o
+                0x00000000                g_pfnVectors
+                0x000000cc                . = ALIGN (0x4)
+                0x000000cc                __section_table_start = .
+                0x000000cc                __data_section_table = .
+                0x000000cc        0x4 LONG 0x409c LOADADDR (.data)
+                0x000000d0        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000d4        0x4 LONG 0x4c4 SIZEOF (.data)
+                0x000000d8        0x4 LONG 0x409c LOADADDR (.data_RAM2)
+                0x000000dc        0x4 LONG 0x2007c000 ADDR (.data_RAM2)
+                0x000000e0        0x4 LONG 0x0 SIZEOF (.data_RAM2)
+                0x000000e4                __data_section_table_end = .
+                0x000000e4                __bss_section_table = .
+                0x000000e4        0x4 LONG 0x100004c4 ADDR (.bss)
+                0x000000e8        0x4 LONG 0x344 SIZEOF (.bss)
+                0x000000ec        0x4 LONG 0x2007c000 ADDR (.bss_RAM2)
+                0x000000f0        0x4 LONG 0x0 SIZEOF (.bss_RAM2)
+                0x000000f4                __bss_section_table_end = .
+                0x000000f4                __section_table_end = .
+ *(.after_vectors*)
+ *(.text*)
+ .text.ResetISR
+                0x000000f4       0x58 ./src/cr_startup_lpc17.o
+                0x000000f4                ResetISR
+ .text.NMI_Handler
+                0x0000014c        0x8 ./src/cr_startup_lpc17.o
+                0x0000014c                NMI_Handler
+ .text.HardFault_Handler
+                0x00000154        0x8 ./src/cr_startup_lpc17.o
+                0x00000154                HardFault_Handler
+ .text.MemManage_Handler
+                0x0000015c        0x8 ./src/cr_startup_lpc17.o
+                0x0000015c                MemManage_Handler
+ .text.BusFault_Handler
+                0x00000164        0x8 ./src/cr_startup_lpc17.o
+                0x00000164                BusFault_Handler
+ .text.UsageFault_Handler
+                0x0000016c        0x8 ./src/cr_startup_lpc17.o
+                0x0000016c                UsageFault_Handler
+ .text.SVCall_Handler
+                0x00000174        0x8 ./src/cr_startup_lpc17.o
+                0x00000174                SVCall_Handler
+ .text.DebugMon_Handler
+                0x0000017c        0x8 ./src/cr_startup_lpc17.o
+                0x0000017c                DebugMon_Handler
+ .text.PendSV_Handler
+                0x00000184        0x8 ./src/cr_startup_lpc17.o
+                0x00000184                PendSV_Handler
+ .text.SysTick_Handler
+                0x0000018c        0x8 ./src/cr_startup_lpc17.o
+                0x0000018c                SysTick_Handler
+ .text.IntDefaultHandler
+                0x00000194        0x8 ./src/cr_startup_lpc17.o
+                0x00000194                TIMER2_IRQHandler
+                0x00000194                RIT_IRQHandler
+                0x00000194                I2C0_IRQHandler
+                0x00000194                USBActivity_IRQHandler
+                0x00000194                PWM1_IRQHandler
+                0x00000194                I2C1_IRQHandler
+                0x00000194                EINT2_IRQHandler
+                0x00000194                UART1_IRQHandler
+                0x00000194                EINT3_IRQHandler
+                0x00000194                CANActivity_IRQHandler
+                0x00000194                TIMER3_IRQHandler
+                0x00000194                UART0_IRQHandler
+                0x00000194                IntDefaultHandler
+                0x00000194                PLL0_IRQHandler
+                0x00000194                CAN_IRQHandler
+                0x00000194                PLL1_IRQHandler
+                0x00000194                SSP0_IRQHandler
+                0x00000194                I2S_IRQHandler
+                0x00000194                I2C2_IRQHandler
+                0x00000194                RTC_IRQHandler
+                0x00000194                TIMER0_IRQHandler
+                0x00000194                SPI_IRQHandler
+                0x00000194                EINT1_IRQHandler
+                0x00000194                TIMER1_IRQHandler
+                0x00000194                UART2_IRQHandler
+                0x00000194                ADC_IRQHandler
+                0x00000194                SSP1_IRQHandler
+                0x00000194                USB_IRQHandler
+                0x00000194                BOD_IRQHandler
+                0x00000194                WDT_IRQHandler
+                0x00000194                QEI_IRQHandler
+                0x00000194                EINT0_IRQHandler
+                0x00000194                DMA_IRQHandler
+                0x00000194                UART3_IRQHandler
+                0x00000194                MCPWM_IRQHandler
+                0x00000194                ENET_IRQHandler
+ .text.playNote
+                0x0000019c       0x68 ./src/main.o
+ .text.refresh_led_stripe_red
+                0x00000204       0x78 ./src/main.o
+                0x00000204                refresh_led_stripe_red
+ .text.refresh_led_stripe_green
+                0x0000027c       0x88 ./src/main.o
+                0x0000027c                refresh_led_stripe_green
+ .text.int_to_char
+                0x00000304       0x78 ./src/main.o
+                0x00000304                int_to_char
+ .text.int_to_seven_value
+                0x0000037c       0xa0 ./src/main.o
+                0x0000037c                int_to_seven_value
+ .text.drawDot  0x0000041c       0x3c ./src/main.o
+                0x0000041c                drawDot
+ .text.game_over_loop
+                0x00000458       0x70 ./src/main.o
+                0x00000458                game_over_loop
+ .text.draw_game_over_text
+                0x000004c8       0x34 ./src/main.o
+                0x000004c8                draw_game_over_text
+ .text.draw_welcome_message
+                0x000004fc       0x34 ./src/main.o
+                0x000004fc                draw_welcome_message
+ .text.drawBomb
+                0x00000530       0xa4 ./src/main.o
+                0x00000530                drawBomb
+ .text.initBombs
+                0x000005d4       0xa4 ./src/main.o
+                0x000005d4                initBombs
+ .text.init_ball_position
+                0x00000678       0x30 ./src/main.o
+                0x00000678                init_ball_position
+ .text.check_if_ball_step_on_bomb
+                0x000006a8       0xcc ./src/main.o
+                0x000006a8                check_if_ball_step_on_bomb
+ .text.check_if_ball_step_on_finish
+                0x00000774       0x70 ./src/main.o
+                0x00000774                check_if_ball_step_on_finish
+ .text.drawFinish
+                0x000007e4       0x24 ./src/main.o
+                0x000007e4                drawFinish
+ .text.drow_finish_message
+                0x00000808       0x2c ./src/main.o
+                0x00000808                drow_finish_message
+ .text.init_i2c
+                0x00000834       0x48 ./src/main.o
+ .text.sound_acording_to_leds
+                0x0000087c       0x50 ./src/main.o
+                0x0000087c                sound_acording_to_leds
+ .text.check_if_ball_step_on_defuse
+                0x000008cc       0xb8 ./src/main.o
+                0x000008cc                check_if_ball_step_on_defuse
+ .text.init_defusals
+                0x00000984       0xa4 ./src/main.o
+                0x00000984                init_defusals
+ .text.play_start_game_sound
+                0x00000a28       0x48 ./src/main.o
+                0x00000a28                play_start_game_sound
+ .text.move_right
+                0x00000a70       0x38 ./src/main.o
+                0x00000a70                move_right
+ .text.move_left
+                0x00000aa8       0x2c ./src/main.o
+                0x00000aa8                move_left
+ .text.move_down
+                0x00000ad4       0x38 ./src/main.o
+                0x00000ad4                move_down
+ .text.move_up  0x00000b0c       0x2c ./src/main.o
+                0x00000b0c                move_up
+ .text.game_over_entry_sound
+                0x00000b38       0x30 ./src/main.o
+                0x00000b38                game_over_entry_sound
+ .text.play_entry_finish_sound
+                0x00000b68       0x34 ./src/main.o
+                0x00000b68                play_entry_finish_sound
+ .text.display_keyboard_input_message
+                0x00000b9c       0x4c ./src/main.o
+                0x00000b9c                display_keyboard_input_message
+ .text.main     0x00000be8      0x388 ./src/main.o
+                0x00000be8                main
+ .text.SystemInit
+                0x00000f70      0x140 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+                0x00000f70                SystemInit
+ .text.I2CRead  0x000010b0       0x50 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .text.I2CWrite
+                0x00001100       0x50 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .text.getStatus
+                0x00001150       0x2c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .text.setModeControl
+                0x0000117c       0x28 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .text.acc_init
+                0x000011a4       0x10 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+                0x000011a4                acc_init
+ .text.acc_read
+                0x000011b4       0x9c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+                0x000011b4                acc_read
+ .text.joystick_init
+                0x00001250       0x20 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+                0x00001250                joystick_init
+ .text.joystick_read
+                0x00001270       0x88 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+                0x00001270                joystick_read
+ .text.led7seg_setChar
+                0x000012f8       0x74 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+                0x000012f8                led7seg_setChar
+ .text.writeCommand
+                0x0000136c       0x48 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.writeData
+                0x000013b4       0x48 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.writeDataLen
+                0x000013fc       0x78 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.runInitSequence
+                0x00001474       0xd4 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.hLine    0x00001548       0x58 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.vLine    0x000015a0       0x58 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.oled_init
+                0x000015f8       0x74 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+                0x000015f8                oled_init
+ .text.oled_putPixel
+                0x0000166c      0x150 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+                0x0000166c                oled_putPixel
+ .text.oled_circle
+                0x000017bc      0x31c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+                0x000017bc                oled_circle
+ .text.oled_fillRect
+                0x00001ad8       0xa0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+                0x00001ad8                oled_fillRect
+ .text.oled_clearScreen
+                0x00001b78       0x64 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+                0x00001b78                oled_clearScreen
+ .text.oled_putChar
+                0x00001bdc       0xd8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+                0x00001bdc                oled_putChar
+ .text.oled_putString
+                0x00001cb4       0x54 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+                0x00001cb4                oled_putString
+ .text.I2CWrite
+                0x00001d08       0x50 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .text.setLsStates
+                0x00001d58       0xcc C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .text.setLeds  0x00001e24       0x70 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .text.pca9532_setLeds
+                0x00001e94       0x78 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+                0x00001e94                pca9532_setLeds
+ .text.rgb_init
+                0x00001f0c       0x28 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+                0x00001f0c                rgb_init
+ .text.GPIO_GetPointer
+                0x00001f34       0x70 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.GPIO_SetDir
+                0x00001fa4       0x4c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+                0x00001fa4                GPIO_SetDir
+ .text.GPIO_SetValue
+                0x00001ff0       0x2c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+                0x00001ff0                GPIO_SetValue
+ .text.GPIO_ClearValue
+                0x0000201c       0x2c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+                0x0000201c                GPIO_ClearValue
+ .text.GPIO_ReadValue
+                0x00002048       0x2c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+                0x00002048                GPIO_ReadValue
+ .text.NVIC_EnableIRQ
+                0x00002074       0x30 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.NVIC_DisableIRQ
+                0x000020a4       0x34 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_getNum
+                0x000020d8       0x48 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_Start
+                0x00002120       0x3c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_Stop
+                0x0000215c       0x30 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_SendByte
+                0x0000218c       0x4c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_GetByte
+                0x000021d8       0x54 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_SetClock
+                0x0000222c       0xa4 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_Init
+                0x000022d0       0xa4 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+                0x000022d0                I2C_Init
+ .text.I2C_Cmd  0x00002374       0x70 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+                0x00002374                I2C_Cmd
+ .text.I2C_IntCmd
+                0x000023e4       0x88 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+                0x000023e4                I2C_IntCmd
+ .text.I2C_MasterTransferData
+                0x0000246c      0x2cc C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+                0x0000246c                I2C_MasterTransferData
+ .text.check_failed
+                0x00002738        0xc C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_libcfg_default.o)
+                0x00002738                check_failed
+ .text.set_PinFunc
+                0x00002744       0x84 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .text.set_ResistorMode
+                0x000027c8       0x84 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .text.set_OpenDrainMode
+                0x0000284c       0x6c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .text.PINSEL_ConfigPin
+                0x000028b8       0x48 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+                0x000028b8                PINSEL_ConfigPin
+ .text.SSP_GetDataSize
+                0x00002900       0x40 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+                0x00002900                SSP_GetDataSize
+ .text.SSP_SendData
+                0x00002940       0x40 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+                0x00002940                SSP_SendData
+ .text.SSP_ReceiveData
+                0x00002980       0x3c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+                0x00002980                SSP_ReceiveData
+ .text.SSP_ReadWrite
+                0x000029bc      0x350 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+                0x000029bc                SSP_ReadWrite
+ .text.getPClock
+                0x00002d0c       0x58 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .text.converUSecToVal
+                0x00002d64       0x58 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .text.converPtrToTimeNum
+                0x00002dbc       0x5c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .text.TIM_GetIntStatus
+                0x00002e18       0x98 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                0x00002e18                TIM_GetIntStatus
+ .text.TIM_ClearIntPending
+                0x00002eb0       0x88 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                0x00002eb0                TIM_ClearIntPending
+ .text.TIM_Init
+                0x00002f38      0x184 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                0x00002f38                TIM_Init
+ .text.TIM_Cmd  0x000030bc       0x70 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                0x000030bc                TIM_Cmd
+ .text.TIM_ConfigMatch
+                0x0000312c      0x184 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                0x0000312c                TIM_ConfigMatch
+ .text.Timer0_Wait
+                0x000032b0       0x78 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                0x000032b0                Timer0_Wait
+ .text.Timer0_us_Wait
+                0x00003328       0x74 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                0x00003328                Timer0_us_Wait
+ .text.CLKPWR_SetPCLKDiv
+                0x0000339c       0x8c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+                0x0000339c                CLKPWR_SetPCLKDiv
+ .text.CLKPWR_GetPCLKSEL
+                0x00003428       0x48 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+                0x00003428                CLKPWR_GetPCLKSEL
+ .text.CLKPWR_GetPCLK
+                0x00003470       0x64 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+                0x00003470                CLKPWR_GetPCLK
+ .text.CLKPWR_ConfigPPWR
+                0x000034d4       0x58 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+                0x000034d4                CLKPWR_ConfigPPWR
+ .text          0x0000352c      0x21c f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_arm_addsubsf3.o)
+                0x0000352c                __aeabi_frsub
+                0x00003534                __subsf3
+                0x00003534                __aeabi_fsub
+                0x00003538                __aeabi_fadd
+                0x00003538                __addsf3
+                0x00003698                __aeabi_ui2f
+                0x00003698                __floatunsisf
+                0x000036a0                __aeabi_i2f
+                0x000036a0                __floatsisf
+                0x000036bc                __aeabi_ul2f
+                0x000036bc                __floatundisf
+                0x000036cc                __aeabi_l2f
+                0x000036cc                __floatdisf
+ .text          0x00003748       0xec f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_arm_cmpsf2.o)
+                0x00003748                __gesf2
+                0x00003748                __gtsf2
+                0x00003750                __lesf2
+                0x00003750                __ltsf2
+                0x00003758                __nesf2
+                0x00003758                __eqsf2
+                0x00003758                __cmpsf2
+                0x000037b8                __aeabi_cfrcmple
+                0x000037c0                __aeabi_cfcmpeq
+                0x000037c0                __aeabi_cfcmple
+                0x000037d0                __aeabi_fcmpeq
+                0x000037e4                __aeabi_fcmplt
+                0x000037f8                __aeabi_fcmple
+                0x0000380c                __aeabi_fcmpge
+                0x00003820                __aeabi_fcmpgt
+ .text          0x00003834       0x4c f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_arm_fixsfsi.o)
+                0x00003834                __aeabi_f2iz
+                0x00003834                __fixsfsi
+ .text          0x00003880       0x30 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_aeabi_uldivmod.o)
+                0x00003880                __aeabi_uldivmod
+ .text          0x000038b0      0x2ec f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_udivmoddi4.o)
+                0x000038b0                __udivmoddi4
+ .text          0x00003b9c        0x4 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_dvmd_tls.o)
+                0x00003b9c                __aeabi_idiv0
+                0x00003b9c                __aeabi_ldiv0
+ .text.memset   0x00003ba0       0x9c f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+                0x00003ba0                memset
+ .text.srand    0x00003c3c       0x14 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-rand.o)
+                0x00003c3c                srand
+ .text.rand     0x00003c50       0x40 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-rand.o)
+                0x00003c50                rand
+ .text.time     0x00003c90       0x2c f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-time.o)
+                0x00003c90                time
+ .text._gettimeofday_r
+                0x00003cbc       0x28 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-gettimeofdayr.o)
+                0x00003cbc                _gettimeofday_r
+ .text._gettimeofday
+                0x00003ce4       0x24 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+                0x00003ce4                _gettimeofday
+ *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata        0x00003d08       0x37 ./src/main.o
+ *fill*         0x00003d3f        0x1 ff
+ .rodata        0x00003d40        0x8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .rodata        0x00003d48      0x300 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+                0x00003d48                font5x7
+ .rodata        0x00004048       0x15 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ *fill*         0x0000405d        0x3 ff
+ .rodata        0x00004060       0x15 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ *fill*         0x00004075        0x3 ff
+ .rodata        0x00004078       0x17 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ *fill*         0x0000408f        0x1 ff
+ .rodata.str1.4
+                0x00004090        0x4 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+                                  0x2 (size before relaxing)
+                0x00004094                . = ALIGN (0x4)
+
+.glue_7         0x00004094        0x0
+ .glue_7        0x00004094        0x0 linker stubs
+
+.glue_7t        0x00004094        0x0
+ .glue_7t       0x00004094        0x0 linker stubs
+
+.vfp11_veneer   0x00004094        0x0
+ .vfp11_veneer  0x00004094        0x0 linker stubs
+
+.v4_bx          0x00004094        0x0
+ .v4_bx         0x00004094        0x0 linker stubs
+
+.iplt           0x00004094        0x0
+ .iplt          0x00004094        0x0 ./src/cr_startup_lpc17.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00004094                __exidx_start = .
+
+.ARM.exidx      0x00004094        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x00004094        0x8 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_udivmoddi4.o)
+                0x0000409c                __exidx_end = .
+                0x0000409c                _etext = .
+
+.rel.dyn        0x0000409c        0x0
+ .rel.iplt      0x0000409c        0x0 ./src/cr_startup_lpc17.o
+
+.data_RAM2      0x2007c000        0x0 load address 0x0000409c
+ FILL mask 0xff
+                [!provide]                PROVIDE (__start_data_RAM2, .)
+ *(.ramfunc.$RAM2)
+ *(.ramfunc.$RamAHB32)
+ *(.data.$RAM2*)
+ *(.data.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__end_data_RAM2, .)
+
+.uninit_RESERVED
+                0x10000000        0x0
+ *(.bss.$RESERVED*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _end_uninit_RESERVED = .
+
+.data           0x10000000      0x4c4 load address 0x0000409c
+ FILL mask 0xff
+                0x10000000                _data = .
+ *(vtable)
+ *(.ramfunc*)
+ *(.data*)
+ .data          0x10000000       0x44 ./src/main.o
+                0x10000000                flag
+                0x10000004                oled_max_width
+                0x10000008                oled_max_height
+ .data          0x10000044        0x4 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+                0x10000044                SystemCoreClock
+ .data          0x10000048       0x50 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .data.impure_data
+                0x10000098      0x428 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x100004c0        0x4 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+                0x100004c0                _impure_ptr
+                0x100004c4                . = ALIGN (0x4)
+                0x100004c4                _edata = .
+
+.igot.plt       0x100004c4        0x0 load address 0x00004560
+ .igot.plt      0x100004c4        0x0 ./src/cr_startup_lpc17.o
+
+.bss_RAM2       0x2007c000        0x0
+                [!provide]                PROVIDE (__start_bss_RAM2, .)
+ *(.bss.$RAM2*)
+ *(.bss.$RamAHB32*)
+                0x2007c000                . = ALIGN ((. != 0x0)?0x4:0x1)
+                [!provide]                PROVIDE (__end_bss_RAM2, .)
+
+.bss            0x100004c4      0x344
+                0x100004c4                _bss = .
+ *(.bss*)
+ .bss           0x100004c4        0x4 ./src/main.o
+                0x100004c4                youstick_flag
+ .bss           0x100004c8      0x300 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .bss           0x100007c8        0x6 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ *fill*         0x100007ce        0x2 
+ .bss           0x100007d0       0x34 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ *(COMMON)
+ COMMON         0x10000804        0x4 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-reent.o)
+                0x10000804                errno
+                0x10000808                . = ALIGN (0x4)
+                0x10000808                _ebss = .
+                [!provide]                PROVIDE (end, .)
+
+.noinit_RAM2    0x2007c000        0x0
+ *(.noinit.$RAM2*)
+ *(.noinit.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+
+.noinit         0x10000808        0x0
+                0x10000808                _noinit = .
+ *(.noinit*)
+                0x10000808                . = ALIGN (0x4)
+                0x10000808                _end_noinit = .
+                0x10000808                PROVIDE (_pvHeapStart, DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x10008000                PROVIDE (_vStackTop, DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc32 - 0x0))
+                [!provide]                PROVIDE (__valid_user_code_checksum, (0x0 - ((((((_vStackTop + (ResetISR + 0x1)) + (NMI_Handler + 0x1)) + (HardFault_Handler + 0x1)) + (DEFINED (MemManage_Handler)?MemManage_Handler:0x0 + 0x1)) + (DEFINED (BusFault_Handler)?BusFault_Handler:0x0 + 0x1)) + (DEFINED (UsageFault_Handler)?UsageFault_Handler:0x0 + 0x1))))
+OUTPUT(demo.axf elf32-littlearm)
+
+.debug_info     0x00000000     0x71c2
+ .debug_info    0x00000000      0x1b1 ./src/cr_startup_lpc17.o
+ .debug_info    0x000001b1      0xc85 ./src/main.o
+ .debug_info    0x00000e36      0x2e3 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_info    0x00001119      0x4ea C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_info    0x00001603       0xfa C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .debug_info    0x000016fd      0x244 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_info    0x00001941      0x901 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_info    0x00002242      0x5d6 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_info    0x00002818       0xcf C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .debug_info    0x000028e7       0x5c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .debug_info    0x00002943      0xd22 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_info    0x00003665      0xced C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_info    0x00004352       0xc5 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .debug_info    0x00004417      0x44e C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_info    0x00004865      0x711 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_info    0x00004f76      0x8ba C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .debug_info    0x00005830      0x590 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_info    0x00005dc0     0x1402 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+
+.debug_abbrev   0x00000000     0x1b63
+ .debug_abbrev  0x00000000       0xb9 ./src/cr_startup_lpc17.o
+ .debug_abbrev  0x000000b9      0x305 ./src/main.o
+ .debug_abbrev  0x000003be       0xe6 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_abbrev  0x000004a4      0x16b C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_abbrev  0x0000060f       0x95 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .debug_abbrev  0x000006a4      0x130 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_abbrev  0x000007d4      0x1ed C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_abbrev  0x000009c1      0x1d7 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_abbrev  0x00000b98       0x93 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .debug_abbrev  0x00000c2b       0x48 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .debug_abbrev  0x00000c73      0x204 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_abbrev  0x00000e77      0x26e C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_abbrev  0x000010e5       0x6c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .debug_abbrev  0x00001151      0x143 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_abbrev  0x00001294      0x1c9 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_abbrev  0x0000145d      0x1fa C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .debug_abbrev  0x00001657      0x1be C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_abbrev  0x00001815      0x34e f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+
+.debug_aranges  0x00000000      0x868
+ .debug_aranges
+                0x00000000       0x70 ./src/cr_startup_lpc17.o
+ .debug_aranges
+                0x00000070      0x108 ./src/main.o
+ .debug_aranges
+                0x00000178       0x28 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_aranges
+                0x000001a0       0x60 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_aranges
+                0x00000200       0x28 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .debug_aranges
+                0x00000228       0x28 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_aranges
+                0x00000250       0x90 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_aranges
+                0x000002e0       0x80 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_aranges
+                0x00000360       0x28 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .debug_aranges
+                0x00000388       0x18 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .debug_aranges
+                0x000003a0       0xf8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_aranges
+                0x00000498       0xd0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_aranges
+                0x00000568       0x20 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .debug_aranges
+                0x00000588       0x48 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_aranges
+                0x000005d0       0xa8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_aranges
+                0x00000678       0xa8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .debug_aranges
+                0x00000720       0x60 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_aranges
+                0x00000780       0xe8 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+
+.debug_ranges   0x00000000      0x880
+ .debug_ranges  0x00000000       0x60 ./src/cr_startup_lpc17.o
+ .debug_ranges  0x00000060       0xf8 ./src/main.o
+ .debug_ranges  0x00000158       0x18 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_ranges  0x00000170       0x50 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_ranges  0x000001c0       0x18 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .debug_ranges  0x000001d8       0x18 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_ranges  0x000001f0       0x80 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_ranges  0x00000270       0x70 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_ranges  0x000002e0       0x18 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .debug_ranges  0x000002f8       0xe8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_ranges  0x000003e0       0xc0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_ranges  0x000004a0       0x10 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .debug_ranges  0x000004b0       0x38 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_ranges  0x000004e8       0x98 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_ranges  0x00000580       0x98 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .debug_ranges  0x00000618       0x50 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_ranges  0x00000668      0x218 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+
+.debug_macro    0x00000000     0x60d5
+ .debug_macro   0x00000000       0x6a ./src/cr_startup_lpc17.o
+ .debug_macro   0x0000006a      0x886 ./src/cr_startup_lpc17.o
+ .debug_macro   0x000008f0       0x22 ./src/cr_startup_lpc17.o
+ .debug_macro   0x00000912       0x44 ./src/cr_startup_lpc17.o
+ .debug_macro   0x00000956       0xfd ./src/cr_startup_lpc17.o
+ .debug_macro   0x00000a53       0x22 ./src/cr_startup_lpc17.o
+ .debug_macro   0x00000a75      0x1df ./src/cr_startup_lpc17.o
+ .debug_macro   0x00000c54      0x1fa ./src/main.o
+ .debug_macro   0x00000e4e       0x1c ./src/main.o
+ .debug_macro   0x00000e6a       0x22 ./src/main.o
+ .debug_macro   0x00000e8c      0x7b7 ./src/main.o
+ .debug_macro   0x00001643      0x2c7 ./src/main.o
+ .debug_macro   0x0000190a       0x64 ./src/main.o
+ .debug_macro   0x0000196e      0x140 ./src/main.o
+ .debug_macro   0x00001aae       0x46 ./src/main.o
+ .debug_macro   0x00001af4       0xed ./src/main.o
+ .debug_macro   0x00001be1       0x28 ./src/main.o
+ .debug_macro   0x00001c09       0x1c ./src/main.o
+ .debug_macro   0x00001c25       0x16 ./src/main.o
+ .debug_macro   0x00001c3b       0xb2 ./src/main.o
+ .debug_macro   0x00001ced       0x58 ./src/main.o
+ .debug_macro   0x00001d45       0x35 ./src/main.o
+ .debug_macro   0x00001d7a       0x9c ./src/main.o
+ .debug_macro   0x00001e16      0x174 ./src/main.o
+ .debug_macro   0x00001f8a       0x52 ./src/main.o
+ .debug_macro   0x00001fdc       0x16 ./src/main.o
+ .debug_macro   0x00001ff2       0x43 ./src/main.o
+ .debug_macro   0x00002035      0x187 ./src/main.o
+ .debug_macro   0x000021bc       0x10 ./src/main.o
+ .debug_macro   0x000021cc       0x35 ./src/main.o
+ .debug_macro   0x00002201       0x10 ./src/main.o
+ .debug_macro   0x00002211       0x10 ./src/main.o
+ .debug_macro   0x00002221      0x329 ./src/main.o
+ .debug_macro   0x0000254a       0x10 ./src/main.o
+ .debug_macro   0x0000255a       0x22 ./src/main.o
+ .debug_macro   0x0000257c       0x3a ./src/main.o
+ .debug_macro   0x000025b6       0x10 ./src/main.o
+ .debug_macro   0x000025c6       0x40 ./src/main.o
+ .debug_macro   0x00002606       0x65 ./src/main.o
+ .debug_macro   0x0000266b       0x35 ./src/main.o
+ .debug_macro   0x000026a0      0x113 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x000027b3      0x880 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00003033       0x10 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00003043      0x12d C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00003170      0x5b2 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00003722      0x7d5 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00003ef7      0x162 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_macro   0x00004059      0x18c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_macro   0x000041e5       0x83 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .debug_macro   0x00004268       0x40 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .debug_macro   0x000042a8       0x99 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_macro   0x00004341      0x2a6 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_macro   0x000045e7       0xdd C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_macro   0x000046c4       0x5d C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_macro   0x00004721      0x192 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_macro   0x000048b3       0xa1 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_macro   0x00004954       0x83 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .debug_macro   0x000049d7       0x1a C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .debug_macro   0x000049f1      0x696 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .debug_macro   0x00005087       0x83 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_macro   0x0000510a       0xda C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_macro   0x000051e4       0x95 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_macro   0x00005279      0x2fa C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_macro   0x00005573      0x146 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_macro   0x000056b9       0x5a C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .debug_macro   0x00005713       0x5e C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .debug_macro   0x00005771       0xd4 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .debug_macro   0x00005845       0x7a C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_macro   0x000058bf       0x8c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_macro   0x0000594b      0x2a0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_macro   0x00005beb       0x95 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .debug_macro   0x00005c80       0xe7 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .debug_macro   0x00005d67       0x7a C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_macro   0x00005de1      0x2f4 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+
+.debug_line     0x00000000     0x427b
+ .debug_line    0x00000000      0x303 ./src/cr_startup_lpc17.o
+ .debug_line    0x00000303      0x827 ./src/main.o
+ .debug_line    0x00000b2a      0x1f3 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_line    0x00000d1d      0x2d3 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_line    0x00000ff0      0x236 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .debug_line    0x00001226      0x246 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_line    0x0000146c      0x550 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_line    0x000019bc      0x366 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_line    0x00001d22      0x224 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .debug_line    0x00001f46       0x7d C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .debug_line    0x00001fc3      0x4b5 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_line    0x00002478      0x6cf C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_line    0x00002b47      0x171 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .debug_line    0x00002cb8      0x249 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_line    0x00002f01      0x55f C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_line    0x00003460      0x5ba C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .debug_line    0x00003a1a      0x2aa C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_line    0x00003cc4      0x5b7 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+
+.debug_str      0x00000000    0x1329d
+ .debug_str     0x00000000     0x3116 ./src/cr_startup_lpc17.o
+                               0x327c (size before relaxing)
+ .debug_str     0x00003116     0x8994 ./src/main.o
+                               0xbbda (size before relaxing)
+ .debug_str     0x0000baaa     0x1b56 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+                               0x7fe5 (size before relaxing)
+ .debug_str     0x0000d600      0xd7c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+                               0x8b3d (size before relaxing)
+ .debug_str     0x0000e37c       0x3a C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+                               0x8042 (size before relaxing)
+ .debug_str     0x0000e3b6     0x1119 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+                               0x90d7 (size before relaxing)
+ .debug_str     0x0000f4cf      0x323 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+                               0x9c58 (size before relaxing)
+ .debug_str     0x0000f7f2      0x1a3 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+                               0x8ada (size before relaxing)
+ .debug_str     0x0000f995       0x22 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+                               0x7fe7 (size before relaxing)
+ .debug_str     0x0000f9b7      0xe21 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+                               0x32c2 (size before relaxing)
+ .debug_str     0x000107d8      0x5c2 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+                               0x8543 (size before relaxing)
+ .debug_str     0x00010d9a     0x1752 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+                               0xa511 (size before relaxing)
+ .debug_str     0x000124ec       0x32 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_libcfg_default.o)
+                               0x3f0d (size before relaxing)
+ .debug_str     0x0001251e      0x202 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+                               0x846a (size before relaxing)
+ .debug_str     0x00012720      0x217 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+                               0xa3ca (size before relaxing)
+ .debug_str     0x00012937      0x456 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                               0xa1e3 (size before relaxing)
+ .debug_str     0x00012d8d      0x112 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+                               0x91d9 (size before relaxing)
+ .debug_str     0x00012e9f      0x3fe f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+                                0x4f7 (size before relaxing)
+
+.comment        0x00000000       0x6e
+ .comment       0x00000000       0x6e ./src/cr_startup_lpc17.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f ./src/main.o
+ .comment       0x0000006e       0x6f C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .comment       0x0000006e       0x6f C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .comment       0x0000006e       0x6f C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .comment       0x0000006e       0x6f C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .comment       0x0000006e       0x6f C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .comment       0x0000006e       0x6f C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .comment       0x0000006e       0x6f C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .comment       0x0000006e       0x6f C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .comment       0x0000006e       0x6f C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .comment       0x0000006e       0x6f C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .comment       0x0000006e       0x6f C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .comment       0x0000006e       0x6f C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .comment       0x0000006e       0x6f C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .comment       0x0000006e       0x6f C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .comment       0x0000006e       0x6f C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .comment       0x0000006e       0x6f f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+
+.ARM.attributes
+                0x00000000       0x33
+ .ARM.attributes
+                0x00000000       0x33 ./src/cr_startup_lpc17.o
+ .ARM.attributes
+                0x00000033       0x33 ./src/main.o
+ .ARM.attributes
+                0x00000066       0x33 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .ARM.attributes
+                0x00000099       0x33 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .ARM.attributes
+                0x000000cc       0x33 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .ARM.attributes
+                0x000000ff       0x33 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .ARM.attributes
+                0x00000132       0x33 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .ARM.attributes
+                0x00000165       0x33 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .ARM.attributes
+                0x00000198       0x33 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .ARM.attributes
+                0x000001cb       0x33 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .ARM.attributes
+                0x000001fe       0x33 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .ARM.attributes
+                0x00000231       0x33 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .ARM.attributes
+                0x00000264       0x33 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .ARM.attributes
+                0x00000297       0x33 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .ARM.attributes
+                0x000002ca       0x33 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .ARM.attributes
+                0x000002fd       0x33 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .ARM.attributes
+                0x00000330       0x33 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .ARM.attributes
+                0x00000363       0x1d f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x00000380       0x1d f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x0000039d       0x1d f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_arm_fixsfsi.o)
+ .ARM.attributes
+                0x000003ba       0x1d f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x000003d7       0x2d f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000404       0x1d f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000421       0x2d f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000044e       0x2d f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-rand.o)
+ .ARM.attributes
+                0x0000047b       0x2d f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-time.o)
+ .ARM.attributes
+                0x000004a8       0x2d f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-gettimeofdayr.o)
+ .ARM.attributes
+                0x000004d5       0x2d f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000502       0x2d f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x0000052f       0x33 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+
+.debug_frame    0x00000000     0x204c
+ .debug_frame   0x00000000      0x120 ./src/cr_startup_lpc17.o
+ .debug_frame   0x00000120      0x46c ./src/main.o
+ .debug_frame   0x0000058c       0x64 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_frame   0x000005f0      0x14c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_frame   0x0000073c       0x50 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(joystick.o)
+ .debug_frame   0x0000078c       0x50 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_frame   0x000007dc      0x244 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_frame   0x00000a20      0x1e8 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_frame   0x00000c08       0x50 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .debug_frame   0x00000c58      0x428 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_frame   0x00001080      0x374 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_frame   0x000013f4       0x2c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_libcfg_default.o)
+ .debug_frame   0x00001420       0xfc C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_frame   0x0000151c      0x2a0 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_frame   0x000017bc      0x2a4 C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .debug_frame   0x00001a60      0x13c C:\Users\Laptop\Desktop\SEAVUS\examples\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_frame   0x00001b9c       0x2c f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00001bc8       0x38 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7-m\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00001c00       0x34 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+ .debug_frame   0x00001c34       0x3c f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-rand.o)
+ .debug_frame   0x00001c70       0x30 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-time.o)
+ .debug_frame   0x00001ca0       0x2c f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-gettimeofdayr.o)
+ .debug_frame   0x00001ccc       0x58 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-reent.o)
+ .debug_frame   0x00001d24      0x328 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
+
+.debug_loc      0x00000000      0xcb1
+ .debug_loc     0x00000000      0xcb1 f:/nxp/lpcxpresso_8.1.4_606/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a(syscalls.o)
